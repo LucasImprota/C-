@@ -1,0 +1,7 @@
+X:\Alunos\081250043\C#\Aula_09-4_For_While\Aula_09-4_For_While\bin\Debug\Aula_09-4_For_While.exe.config
+X:\Alunos\081250043\C#\Aula_09-4_For_While\Aula_09-4_For_While\bin\Debug\Aula_09-4_For_While.exe
+X:\Alunos\081250043\C#\Aula_09-4_For_While\Aula_09-4_For_While\bin\Debug\Aula_09-4_For_While.pdb
+X:\Alunos\081250043\C#\Aula_09-4_For_While\Aula_09-4_For_While\obj\Debug\Aula_09-4_For_While.csproj.AssemblyReference.cache
+X:\Alunos\081250043\C#\Aula_09-4_For_While\Aula_09-4_For_While\obj\Debug\Aula_09-4_For_While.csproj.CoreCompileInputs.cache
+X:\Alunos\081250043\C#\Aula_09-4_For_While\Aula_09-4_For_While\obj\Debug\Aula_09-4_For_While.exe
+X:\Alunos\081250043\C#\Aula_09-4_For_While\Aula_09-4_For_While\obj\Debug\Aula_09-4_For_While.pdb

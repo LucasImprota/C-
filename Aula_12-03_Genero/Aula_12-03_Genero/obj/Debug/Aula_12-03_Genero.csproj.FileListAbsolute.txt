@@ -1,0 +1,7 @@
+X:\Alunos\081250043\C#\Aula_12-03_Genero\Aula_12-03_Genero\bin\Debug\Aula_12-03_Genero.exe.config
+X:\Alunos\081250043\C#\Aula_12-03_Genero\Aula_12-03_Genero\bin\Debug\Aula_12-03_Genero.exe
+X:\Alunos\081250043\C#\Aula_12-03_Genero\Aula_12-03_Genero\bin\Debug\Aula_12-03_Genero.pdb
+X:\Alunos\081250043\C#\Aula_12-03_Genero\Aula_12-03_Genero\obj\Debug\Aula_12-03_Genero.csproj.AssemblyReference.cache
+X:\Alunos\081250043\C#\Aula_12-03_Genero\Aula_12-03_Genero\obj\Debug\Aula_12-03_Genero.csproj.CoreCompileInputs.cache
+X:\Alunos\081250043\C#\Aula_12-03_Genero\Aula_12-03_Genero\obj\Debug\Aula_12-03_Genero.exe
+X:\Alunos\081250043\C#\Aula_12-03_Genero\Aula_12-03_Genero\obj\Debug\Aula_12-03_Genero.pdb

@@ -1,0 +1,7 @@
+X:\Alunos\081250043\C#\Aula_12-03_Manipulaçao_de_String\Aula_12-03_Manipulaçao_de_String\bin\Debug\Aula_12-03_Manipulaçao_de_String.exe.config
+X:\Alunos\081250043\C#\Aula_12-03_Manipulaçao_de_String\Aula_12-03_Manipulaçao_de_String\bin\Debug\Aula_12-03_Manipulaçao_de_String.exe
+X:\Alunos\081250043\C#\Aula_12-03_Manipulaçao_de_String\Aula_12-03_Manipulaçao_de_String\bin\Debug\Aula_12-03_Manipulaçao_de_String.pdb
+X:\Alunos\081250043\C#\Aula_12-03_Manipulaçao_de_String\Aula_12-03_Manipulaçao_de_String\obj\Debug\Aula_12-03_Manipulaçao_de_String.csproj.AssemblyReference.cache
+X:\Alunos\081250043\C#\Aula_12-03_Manipulaçao_de_String\Aula_12-03_Manipulaçao_de_String\obj\Debug\Aula_12-03_Manipulaçao_de_String.csproj.CoreCompileInputs.cache
+X:\Alunos\081250043\C#\Aula_12-03_Manipulaçao_de_String\Aula_12-03_Manipulaçao_de_String\obj\Debug\Aula_12-03_Manipulaçao_de_String.exe
+X:\Alunos\081250043\C#\Aula_12-03_Manipulaçao_de_String\Aula_12-03_Manipulaçao_de_String\obj\Debug\Aula_12-03_Manipulaçao_de_String.pdb

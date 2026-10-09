@@ -1,0 +1,7 @@
+X:\Alunos\081250043\C#\Aula_05-03_Idade\bin\Debug\Aula_05-03_Idade.exe.config
+X:\Alunos\081250043\C#\Aula_05-03_Idade\bin\Debug\Aula_05-03_Idade.exe
+X:\Alunos\081250043\C#\Aula_05-03_Idade\bin\Debug\Aula_05-03_Idade.pdb
+X:\Alunos\081250043\C#\Aula_05-03_Idade\obj\Debug\Aula_05-03_Idade.csproj.AssemblyReference.cache
+X:\Alunos\081250043\C#\Aula_05-03_Idade\obj\Debug\Aula_05-03_Idade.csproj.CoreCompileInputs.cache
+X:\Alunos\081250043\C#\Aula_05-03_Idade\obj\Debug\Aula_05-03_Idade.exe
+X:\Alunos\081250043\C#\Aula_05-03_Idade\obj\Debug\Aula_05-03_Idade.pdb

@@ -1,0 +1,7 @@
+X:\Alunos\081250043\C#\Aula_2402_conversao\bin\Debug\Aula_2402_conversao.exe.config
+X:\Alunos\081250043\C#\Aula_2402_conversao\bin\Debug\Aula_2402_conversao.exe
+X:\Alunos\081250043\C#\Aula_2402_conversao\bin\Debug\Aula_2402_conversao.pdb
+X:\Alunos\081250043\C#\Aula_2402_conversao\obj\Debug\Aula_2402_conversao.csproj.AssemblyReference.cache
+X:\Alunos\081250043\C#\Aula_2402_conversao\obj\Debug\Aula_2402_conversao.csproj.CoreCompileInputs.cache
+X:\Alunos\081250043\C#\Aula_2402_conversao\obj\Debug\Aula_2402_conversao.exe
+X:\Alunos\081250043\C#\Aula_2402_conversao\obj\Debug\Aula_2402_conversao.pdb

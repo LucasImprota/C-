@@ -1,0 +1,7 @@
+X:\Alunos\081250043\C#\Aula_2602_aumento\Aula_2602_aumento\bin\Debug\Aula_2602_aumento.exe.config
+X:\Alunos\081250043\C#\Aula_2602_aumento\Aula_2602_aumento\bin\Debug\Aula_2602_aumento.exe
+X:\Alunos\081250043\C#\Aula_2602_aumento\Aula_2602_aumento\bin\Debug\Aula_2602_aumento.pdb
+X:\Alunos\081250043\C#\Aula_2602_aumento\Aula_2602_aumento\obj\Debug\Aula_2602_aumento.csproj.AssemblyReference.cache
+X:\Alunos\081250043\C#\Aula_2602_aumento\Aula_2602_aumento\obj\Debug\Aula_2602_aumento.csproj.CoreCompileInputs.cache
+X:\Alunos\081250043\C#\Aula_2602_aumento\Aula_2602_aumento\obj\Debug\Aula_2602_aumento.exe
+X:\Alunos\081250043\C#\Aula_2602_aumento\Aula_2602_aumento\obj\Debug\Aula_2602_aumento.pdb

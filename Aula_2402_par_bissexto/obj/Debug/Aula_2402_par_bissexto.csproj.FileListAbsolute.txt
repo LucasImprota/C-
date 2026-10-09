@@ -1,0 +1,7 @@
+X:\Alunos\081250043\C#\Aula_2402_par_bissexto\obj\Debug\Aula_2402_par_bissexto.csproj.AssemblyReference.cache
+X:\Alunos\081250043\C#\Aula_2402_par_bissexto\obj\Debug\Aula_2402_par_bissexto.csproj.CoreCompileInputs.cache
+X:\Alunos\081250043\C#\Aula_2402_par_bissexto\bin\Debug\Aula_2402_par_bissexto.exe.config
+X:\Alunos\081250043\C#\Aula_2402_par_bissexto\bin\Debug\Aula_2402_par_bissexto.exe
+X:\Alunos\081250043\C#\Aula_2402_par_bissexto\bin\Debug\Aula_2402_par_bissexto.pdb
+X:\Alunos\081250043\C#\Aula_2402_par_bissexto\obj\Debug\Aula_2402_par_bissexto.exe
+X:\Alunos\081250043\C#\Aula_2402_par_bissexto\obj\Debug\Aula_2402_par_bissexto.pdb

@@ -1,0 +1,7 @@
+X:\Alunos\081250043\C#\Aula_1902_CalculoMedia\bin\Debug\Aula_1902_CalculoMedia.exe.config
+X:\Alunos\081250043\C#\Aula_1902_CalculoMedia\bin\Debug\Aula_1902_CalculoMedia.exe
+X:\Alunos\081250043\C#\Aula_1902_CalculoMedia\bin\Debug\Aula_1902_CalculoMedia.pdb
+X:\Alunos\081250043\C#\Aula_1902_CalculoMedia\obj\Debug\Aula_1902_CalculoMedia.csproj.AssemblyReference.cache
+X:\Alunos\081250043\C#\Aula_1902_CalculoMedia\obj\Debug\Aula_1902_CalculoMedia.csproj.CoreCompileInputs.cache
+X:\Alunos\081250043\C#\Aula_1902_CalculoMedia\obj\Debug\Aula_1902_CalculoMedia.exe
+X:\Alunos\081250043\C#\Aula_1902_CalculoMedia\obj\Debug\Aula_1902_CalculoMedia.pdb

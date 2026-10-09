@@ -1,0 +1,7 @@
+X:\Alunos\081250043\C#\leitura-txt\bin\Debug\leitura-txt.exe.config
+X:\Alunos\081250043\C#\leitura-txt\bin\Debug\leitura-txt.exe
+X:\Alunos\081250043\C#\leitura-txt\bin\Debug\leitura-txt.pdb
+X:\Alunos\081250043\C#\leitura-txt\obj\Debug\leitura-txt.csproj.AssemblyReference.cache
+X:\Alunos\081250043\C#\leitura-txt\obj\Debug\leitura-txt.csproj.CoreCompileInputs.cache
+X:\Alunos\081250043\C#\leitura-txt\obj\Debug\leitura-txt.exe
+X:\Alunos\081250043\C#\leitura-txt\obj\Debug\leitura-txt.pdb

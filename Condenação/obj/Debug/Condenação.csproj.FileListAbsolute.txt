@@ -1,0 +1,7 @@
+X:\Alunos\081250043\C#\Condenação\bin\Debug\Condenação.exe.config
+X:\Alunos\081250043\C#\Condenação\bin\Debug\Condenação.exe
+X:\Alunos\081250043\C#\Condenação\bin\Debug\Condenação.pdb
+X:\Alunos\081250043\C#\Condenação\obj\Debug\Condenação.csproj.AssemblyReference.cache
+X:\Alunos\081250043\C#\Condenação\obj\Debug\Condenação.csproj.CoreCompileInputs.cache
+X:\Alunos\081250043\C#\Condenação\obj\Debug\Condenação.exe
+X:\Alunos\081250043\C#\Condenação\obj\Debug\Condenação.pdb

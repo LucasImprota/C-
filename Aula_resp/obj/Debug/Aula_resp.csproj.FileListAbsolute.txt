@@ -1,0 +1,7 @@
+X:\Alunos\081250043\C#\Aula_resp\bin\Debug\Aula_resp.exe.config
+X:\Alunos\081250043\C#\Aula_resp\bin\Debug\Aula_resp.exe
+X:\Alunos\081250043\C#\Aula_resp\bin\Debug\Aula_resp.pdb
+X:\Alunos\081250043\C#\Aula_resp\obj\Debug\Aula_resp.csproj.AssemblyReference.cache
+X:\Alunos\081250043\C#\Aula_resp\obj\Debug\Aula_resp.csproj.CoreCompileInputs.cache
+X:\Alunos\081250043\C#\Aula_resp\obj\Debug\Aula_resp.exe
+X:\Alunos\081250043\C#\Aula_resp\obj\Debug\Aula_resp.pdb

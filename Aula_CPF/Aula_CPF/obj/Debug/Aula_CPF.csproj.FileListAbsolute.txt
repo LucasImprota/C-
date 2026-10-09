@@ -1,0 +1,7 @@
+X:\Alunos\081250043\C#\Aula_CPF\Aula_CPF\bin\Debug\Aula_CPF.exe.config
+X:\Alunos\081250043\C#\Aula_CPF\Aula_CPF\bin\Debug\Aula_CPF.exe
+X:\Alunos\081250043\C#\Aula_CPF\Aula_CPF\bin\Debug\Aula_CPF.pdb
+X:\Alunos\081250043\C#\Aula_CPF\Aula_CPF\obj\Debug\Aula_CPF.csproj.AssemblyReference.cache
+X:\Alunos\081250043\C#\Aula_CPF\Aula_CPF\obj\Debug\Aula_CPF.csproj.CoreCompileInputs.cache
+X:\Alunos\081250043\C#\Aula_CPF\Aula_CPF\obj\Debug\Aula_CPF.exe
+X:\Alunos\081250043\C#\Aula_CPF\Aula_CPF\obj\Debug\Aula_CPF.pdb
